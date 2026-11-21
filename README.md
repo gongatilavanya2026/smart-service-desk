@@ -344,18 +344,6 @@ The project uses two branches:
 - `main` – Contains the final working version of the application.
 - `development` – Used for implementing and testing the application.
 
-### Development Workflow
-
-1. Create the initial project structure.
-2. Create and switch to the development branch.
-3. Implement the domain layer.
-4. Implement the JSON file repository.
-5. Implement the application service.
-6. Complete the CLI application.
-7. Test all functionalities.
-8. Merge the development branch into main.
-9. Push the final working code to GitHub.
-
 ### Meaningful Commits
 
 The following commits are used to maintain the development history:

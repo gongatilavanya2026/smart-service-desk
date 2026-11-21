@@ -398,11 +398,7 @@ The following test cases are used to verify the application's functionality.
 
 ## 14. Git and GitHub Workflow
 
-Git is used for version control, while GitHub is used to maintain the remote repository.
-
-### Branch Strategy
-
-The project uses two branches:
+### Meaningful Commits
 
 | Branch | Purpose |
 |---|---|
